@@ -5,31 +5,49 @@ const xml2js = require("xml2js");
 const services = [
     {
         name: "pluto",
-        url: "https://i.mjh.nz/PlutoTV/ca.xml",
-        streamTemplate: "https://pluto.tv/ca/live-tv/{channelId}"
+        url: "https://github.com/iptv-org/iptv/blob/master/streams/ca_pluto.m3u",
+        isM3U: true
     }
 ]
 
 const M3U_HEADER = "#EXTM3U\n";
 
 async function fetchChannels(service){
-    try{
+    try {
         const response = await axios.get(service.url);
-        const parsed = await xml2js.parseStringPromise(response.data);
-        const channels = parsed.tv.channel || [];
-
-        const playlist = channels.map(ch => {
+        if (service.isM3U) {
+          // Parse as plain M3U text
+          const lines = response.data.split('\n');
+          const channels = [];
+    
+          for (let i = 0; i < lines.length; i++) {
+            if (lines[i].startsWith('#EXTINF')) {
+              const nameMatch = lines[i].match(/,(.+)/);
+              const logoMatch = lines[i].match(/tvg-logo="([^"]+)"/);
+              const name = nameMatch ? nameMatch[1].trim() : 'Unknown';
+              const logo = logoMatch ? logoMatch[1] : '';
+              const stream = lines[i + 1];
+              channels.push({ name, logo, url: stream });
+            }
+          }
+    
+          return channels;
+        } else {
+          // Existing XML parser
+          const parsed = await xml2js.parseStringPromise(response.data);
+          const channels = parsed.tv.channel || [];
+    
+          return channels.map(ch => {
             const id = ch.$.id;
             const name = ch["display-name"]?.[0] || "Unknown";
             const logo = ch.icon?.[0]?.$.src || "";
             const url = service.streamTemplate.replace("{channelId}", id);
             return { name, logo, url };
-        });
-    
-        return playlist;
-    }catch(error){
-        console.log(`Failed to fetch data from ${url}: `, error.message);
-        return [];
+          });
+        }
+    } catch (error) {
+    console.error(`Failed to fetch/parse from ${service.url}:`, error.message);
+    return [];
     }
 }
 

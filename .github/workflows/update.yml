@@ -29,4 +29,4 @@ jobs:
           git config user.email github-actions@github.com
           git add *.m3u
           git commit -m "🔄 Daily update (Pluto M3U)" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main

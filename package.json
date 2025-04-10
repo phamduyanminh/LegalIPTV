@@ -1,0 +1,12 @@
+{
+    "name": "m3u-generator",
+    "version": "1.0.0",
+    "main": "generateAllM3U.js",
+    "script": {
+        "start": "node generateAllM3U.js"
+    },
+    "dependencies": {
+        "axios": "^1.8.4",
+        "xml2js": "^0.6.2"
+    }
+}

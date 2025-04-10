@@ -2,7 +2,7 @@ name: Daily Pluto M3U Update
 
 on:
   schedule:
-    - cron: '0 12 * * *' # 7 AM EST / 12:00 UTC
+    - cron: '0 12 * * *' # Runs daily at 7 AM EST / 12:00 UTC
   workflow_dispatch:
 
 jobs:

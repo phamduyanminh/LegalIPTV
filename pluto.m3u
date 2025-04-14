@@ -23,6 +23,8 @@ https://pluto.tv/ca/live-tv/66dad50215d2c60008d7afbd
 https://pluto.tv/ca/live-tv/62fb6da41afad500077e9178
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png",Pluto TV Horror
 https://pluto.tv/ca/live-tv/62ea3f8a38acc80007072d26
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67054838ec9d6d00082ee426/colorLogoPNG.png",Pluto TV Zombies
+https://pluto.tv/ca/live-tv/67054838ec9d6d00082ee426
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b52ec24ea4800008370651/colorLogoPNG.png",Who's the Boss
 https://pluto.tv/ca/live-tv/64b52ec24ea4800008370651
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",Frasier
@@ -257,7 +259,7 @@ https://pluto.tv/ca/live-tv/64c2201a2a7f2200089a0af2
 https://pluto.tv/ca/live-tv/62e92951c2db99000787c00d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b66f24d2800087777ec/colorLogoPNG.png",Supermarket Sweep
 https://pluto.tv/ca/live-tv/62e92b66f24d2800087777ec
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6639e6edf9992200081e2855/colorLogoPNG.png",GameTVGo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6639e6edf9992200081e2855/colorLogoPNG.png",GameTVGO
 https://pluto.tv/ca/live-tv/6639e6edf9992200081e2855
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e90e8cb05d2b0007f10a61/colorLogoPNG.png",Game Show Central
 https://pluto.tv/ca/live-tv/62e90e8cb05d2b0007f10a61
@@ -373,10 +375,10 @@ https://pluto.tv/ca/live-tv/65367e724f123d000877cfe5
 https://pluto.tv/ca/live-tv/664c9983cb3ea100080fd2c4
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb65373297460007ec5aa7/colorLogoPNG.png",Snackable Adventures
 https://pluto.tv/ca/live-tv/62fb65373297460007ec5aa7
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
-https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
 https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
+https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png",Pet Collective
 https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240b7e283aa40008f79f84/colorLogoPNG.png",Naturescape

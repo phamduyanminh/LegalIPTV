@@ -17,6 +17,8 @@ https://pluto.tv/ca/live-tv/63920159db0dea0007dd9932
 https://pluto.tv/ca/live-tv/62fb6cd97b90e60007bc318a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png",Christmas 365
 https://pluto.tv/ca/live-tv/62fb6d4308f5ec0007453c09
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c601e11410009b27011/colorLogoPNG_1732013077175.png",Pluto TV Kids Movie Club
+https://pluto.tv/ca/live-tv/66c45c601e11410009b27011
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",Pluto Classic Movie Westerns
 https://pluto.tv/ca/live-tv/66dad50215d2c60008d7afbd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png",Thrillers 365
@@ -375,10 +377,10 @@ https://pluto.tv/ca/live-tv/65367e724f123d000877cfe5
 https://pluto.tv/ca/live-tv/664c9983cb3ea100080fd2c4
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb65373297460007ec5aa7/colorLogoPNG.png",Snackable Adventures
 https://pluto.tv/ca/live-tv/62fb65373297460007ec5aa7
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
-https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
 https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
+https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png",Pet Collective
 https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240b7e283aa40008f79f84/colorLogoPNG.png",Naturescape
@@ -439,8 +441,6 @@ https://pluto.tv/ca/live-tv/647f07e74cfc2c0008a2e557
 https://pluto.tv/ca/live-tv/660c29b5aec9680008f5b4a4
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65f9ba32f7f0af0008fbcb3d/colorLogoPNG.png",Realmadrid TV
 https://pluto.tv/ca/live-tv/65f9ba32f7f0af0008fbcb3d
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b97ef310e33f0007eea65f/colorLogoPNG.png",beIN SPORTS XTRA
-https://pluto.tv/ca/live-tv/62b97ef310e33f0007eea65f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664db53eb18d70000800c3fc/colorLogoPNG.png",Cricket Gold
 https://pluto.tv/ca/live-tv/664db53eb18d70000800c3fc
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png",UFC

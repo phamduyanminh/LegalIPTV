@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67b4b8b47d8025b1610a0a57/colorLogoPNG.png",The Martha Stewart Channel
-https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea459c8d467f0007fbec86/colorLogoPNG.png",The Emeril Lagasse Channel
-https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
 https://pluto.tv/ca/live-tv/62ea3d24b8e02600071fa296
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png",Pluto TV Action Movies
@@ -313,7 +309,7 @@ https://pluto.tv/ca/live-tv/62cc1e1e0d0611000837dc1d
 https://pluto.tv/ca/live-tv/63da370e2e477400081cf8b6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/colorLogoPNG.png",CBS News 24/7
 https://pluto.tv/ca/live-tv/6350fdd266e9ea0007bedec5
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c274f25dd00092739ee/colorLogoPNG.png",CNN Fast
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c274f25dd00092739ee/colorLogoPNG_1745400015230.png",CNN Headlines
 https://pluto.tv/ca/live-tv/66c45c274f25dd00092739ee
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65bcc9ac33ea8600086883ed/colorLogoPNG.png",Reuters
 https://pluto.tv/ca/live-tv/65bcc9ac33ea8600086883ed
@@ -369,16 +365,20 @@ https://pluto.tv/ca/live-tv/62fb62669f35b8000757204e
 https://pluto.tv/ca/live-tv/6540ff4f7312a40008297b59
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92967cd663f0007e604fd/colorLogoPNG.png",Homeful
 https://pluto.tv/ca/live-tv/62e92967cd663f0007e604fd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67b4b8b47d8025b1610a0a57/colorLogoPNG.png",The Martha Stewart Channel
+https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea459c8d467f0007fbec86/colorLogoPNG.png",The Emeril Lagasse Channel
+https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65367e724f123d000877cfe5/colorLogoPNG.png",Come Dine with Me
 https://pluto.tv/ca/live-tv/65367e724f123d000877cfe5
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664c9983cb3ea100080fd2c4/colorLogoPNG.png",Taste
 https://pluto.tv/ca/live-tv/664c9983cb3ea100080fd2c4
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb65373297460007ec5aa7/colorLogoPNG.png",Snackable Adventures
 https://pluto.tv/ca/live-tv/62fb65373297460007ec5aa7
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
-https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
 https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
+https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png",The Pet Collective
 https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240b7e283aa40008f79f84/colorLogoPNG.png",Naturescape

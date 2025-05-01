@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png",One Piece
+https://pluto.tv/ca/live-tv/62e94ec74823db0007277a8f
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67f4ee5b135aeda9ddab4a16/colorLogoPNG.png",Inuyasha
+https://pluto.tv/ca/live-tv/67f4ee5b135aeda9ddab4a16
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67f3cb8a135aeda9dd62fcc8/colorLogoPNG.png",Z Nation
+https://pluto.tv/ca/live-tv/67f3cb8a135aeda9dd62fcc8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6509e0c7ff50008ca34ab/colorLogoPNG.png",MTV on Tour!
+https://pluto.tv/ca/live-tv/65a6509e0c7ff50008ca34ab
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
 https://pluto.tv/ca/live-tv/62ea3d24b8e02600071fa296
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png",Pluto TV Action Movies
@@ -19,8 +27,6 @@ https://pluto.tv/ca/live-tv/66dad50215d2c60008d7afbd
 https://pluto.tv/ca/live-tv/62fb6da41afad500077e9178
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png",Pluto TV Horror
 https://pluto.tv/ca/live-tv/62ea3f8a38acc80007072d26
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67054838ec9d6d00082ee426/colorLogoPNG.png",Pluto TV Zombies
-https://pluto.tv/ca/live-tv/67054838ec9d6d00082ee426
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b52ec24ea4800008370651/colorLogoPNG.png",Who's the Boss
 https://pluto.tv/ca/live-tv/64b52ec24ea4800008370651
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",Frasier
@@ -171,12 +177,12 @@ https://pluto.tv/ca/live-tv/62bdad934d73d50007a82472
 https://pluto.tv/ca/live-tv/66166cb1307fa30008f275e7
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf90df0d45610008f3dbe0/colorLogoPNG.png",Nonstop Sci-fi
 https://pluto.tv/ca/live-tv/65cf90df0d45610008f3dbe0
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",HauntTV
-https://pluto.tv/ca/live-tv/63934c218ef524000757b122
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png",Ghost Hunters
-https://pluto.tv/ca/live-tv/65cf8ace332fec00081e7ea2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",Pluto TV Paranormal
 https://pluto.tv/ca/live-tv/62e92a58f3e4290007290c96
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png",Ghost Hunters
+https://pluto.tv/ca/live-tv/65cf8ace332fec00081e7ea2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",HauntTV
+https://pluto.tv/ca/live-tv/63934c218ef524000757b122
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdae69a47b6c00076af298/colorLogoPNG.png",Baywatch
 https://pluto.tv/ca/live-tv/62bdae69a47b6c00076af298
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",Nashville
@@ -375,10 +381,10 @@ https://pluto.tv/ca/live-tv/65367e724f123d000877cfe5
 https://pluto.tv/ca/live-tv/664c9983cb3ea100080fd2c4
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb65373297460007ec5aa7/colorLogoPNG.png",Snackable Adventures
 https://pluto.tv/ca/live-tv/62fb65373297460007ec5aa7
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
-https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
 https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
+https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png",The Pet Collective
 https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240b7e283aa40008f79f84/colorLogoPNG.png",Naturescape
@@ -447,8 +453,6 @@ https://pluto.tv/ca/live-tv/66ed3eb27358ce000830df49
 https://pluto.tv/ca/live-tv/62ea4dadce395f0007086df2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65bcc9c8d77d450008b34c6b/colorLogoPNG.png",Monster Jam
 https://pluto.tv/ca/live-tv/65bcc9c8d77d450008b34c6b
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a7b3bf07e03a00089148a9/colorLogoPNG.png",MTV: Best of
-https://pluto.tv/ca/live-tv/65a7b3bf07e03a00089148a9
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",MTV Spankin’ New
 https://pluto.tv/ca/live-tv/6541010f770cf1000866be98
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65410176770cf1000866bf31/colorLogoPNG.png",MTV Biggest Pop

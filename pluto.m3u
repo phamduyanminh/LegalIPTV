@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png",Pluto TV British Comedy
+https://pluto.tv/ca/live-tv/638e11951177840007fdd6b2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png",Degrassi
+https://pluto.tv/ca/live-tv/62bdaf3470f09a000714a2f6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png",One Piece
 https://pluto.tv/ca/live-tv/62e94ec74823db0007277a8f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67f4ee5b135aeda9ddab4a16/colorLogoPNG.png",Inuyasha

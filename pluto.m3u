@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664225a1b18d700008e8bc76/colorLogoPNG.png",MTV Pride
+https://pluto.tv/ca/live-tv/664225a1b18d700008e8bc76
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",Summer of Movies
 https://pluto.tv/ca/live-tv/6654adb1f99922000854388c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
@@ -57,6 +59,8 @@ https://pluto.tv/ca/live-tv/64f8a9ccd661bb00081bd93a
 https://pluto.tv/ca/live-tv/64f8a949f5b5e4000862467c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png",South Park
 https://pluto.tv/ca/live-tv/62bdb1c5e25122000798ac79
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoPNG.png",South Park: Welcome to Canada!
+https://pluto.tv/ca/live-tv/663115d923e24f000843b49c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png",South Park: Cartman Collection
 https://pluto.tv/ca/live-tv/65df4934f7f0af0008c32545
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png",South Park: Kenny Collection
@@ -443,8 +447,6 @@ https://pluto.tv/ca/live-tv/66ed3eb27358ce000830df49
 https://pluto.tv/ca/live-tv/62ea4dadce395f0007086df2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65bcc9c8d77d450008b34c6b/colorLogoPNG.png",Monster Jam
 https://pluto.tv/ca/live-tv/65bcc9c8d77d450008b34c6b
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6509e0c7ff50008ca34ab/colorLogoPNG.png",MTV on Tour!
-https://pluto.tv/ca/live-tv/65a6509e0c7ff50008ca34ab
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",MTV Spankin’ New
 https://pluto.tv/ca/live-tv/6541010f770cf1000866be98
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65410176770cf1000866bf31/colorLogoPNG.png",MTV Biggest Pop

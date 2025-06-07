@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66fd394e9269330008413302/colorLogoPNG_1748591008644.png",AWSN
+https://pluto.tv/ca/live-tv/66fd394e9269330008413302
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664225a1b18d700008e8bc76/colorLogoPNG.png",MTV Pride
 https://pluto.tv/ca/live-tv/664225a1b18d700008e8bc76
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",Summer of Movies

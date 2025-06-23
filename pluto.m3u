@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66fd394e9269330008413302/colorLogoPNG_1748591008644.png",AWSN
-https://pluto.tv/ca/live-tv/66fd394e9269330008413302
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664225a1b18d700008e8bc76/colorLogoPNG.png",MTV Pride
-https://pluto.tv/ca/live-tv/664225a1b18d700008e8bc76
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65e9ddb48145cb00084db62c/colorLogoPNG_1748523071394.png",Top Gear: Racing Icons
+https://pluto.tv/ca/live-tv/65e9ddb48145cb00084db62c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6835c3b25dcd940ee541b866/colorLogoPNG_1748354073277.png",Pluto TV Psycho
 https://pluto.tv/ca/live-tv/6835c3b25dcd940ee541b866
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6835c2365195c2a60a0e52bb/colorLogoPNG_1749477187783.png",Pluto TV Classic Terror
@@ -435,6 +433,8 @@ https://pluto.tv/ca/live-tv/671645c4529ac900080c9a0b
 https://pluto.tv/ca/live-tv/62ea4b755e8e770007387b79
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265b58bbd2d000089ceff5/colorLogoPNG.png",PGA TOUR
 https://pluto.tv/ca/live-tv/65265b58bbd2d000089ceff5
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66fd394e9269330008413302/colorLogoPNG_1748591008644.png",AWSN
+https://pluto.tv/ca/live-tv/66fd394e9269330008413302
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png",DAZN TV
 https://pluto.tv/ca/live-tv/647f07e74cfc2c0008a2e557
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/660c29b5aec9680008f5b4a4/colorLogoPNG_1750064928408.png",FIFA+
@@ -449,6 +449,8 @@ https://pluto.tv/ca/live-tv/66ed3eb27358ce000830df49
 https://pluto.tv/ca/live-tv/62ea4dadce395f0007086df2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65bcc9c8d77d450008b34c6b/colorLogoPNG.png",Monster Jam
 https://pluto.tv/ca/live-tv/65bcc9c8d77d450008b34c6b
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664225a1b18d700008e8bc76/colorLogoPNG.png",MTV Pride
+https://pluto.tv/ca/live-tv/664225a1b18d700008e8bc76
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",MTV Spankin’ New
 https://pluto.tv/ca/live-tv/6541010f770cf1000866be98
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65410176770cf1000866bf31/colorLogoPNG.png",MTV Biggest Pop

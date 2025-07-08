@@ -1,12 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6509e0c7ff50008ca34ab/colorLogoPNG.png",MTV on Tour!
+https://pluto.tv/ca/live-tv/65a6509e0c7ff50008ca34ab
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/681b16158f97d58ff194a3a9/colorLogoPNG_1746816920521.png",Project Runway
 https://pluto.tv/ca/live-tv/681b16158f97d58ff194a3a9
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea41f42db3220007db97a6/colorLogoPNG_1750758085182.png",Pluto TV Christmas
-https://pluto.tv/ca/live-tv/62ea41f42db3220007db97a6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png",Andromeda
 https://pluto.tv/ca/live-tv/6850335b5965a2fd49f7e36d
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65e9ddb48145cb00084db62c/colorLogoPNG_1748523071394.png",Top Gear: Racing Icons
-https://pluto.tv/ca/live-tv/65e9ddb48145cb00084db62c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",Summer of Movies
 https://pluto.tv/ca/live-tv/6654adb1f99922000854388c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
@@ -21,6 +19,8 @@ https://pluto.tv/ca/live-tv/64a3d96f060e830008af6745
 https://pluto.tv/ca/live-tv/63920159db0dea0007dd9932
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png",Romance 365
 https://pluto.tv/ca/live-tv/62fb6cd97b90e60007bc318a
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea41f42db3220007db97a6/colorLogoPNG_1750758085182.png",Pluto TV Christmas
+https://pluto.tv/ca/live-tv/62ea41f42db3220007db97a6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png",Christmas 365
 https://pluto.tv/ca/live-tv/62fb6d4308f5ec0007453c09
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",Pluto Classic Movie Westerns
@@ -235,6 +235,8 @@ https://pluto.tv/ca/live-tv/6540fe6fbfbaec0008a583ae
 https://pluto.tv/ca/live-tv/66166989635c7500084105a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638e10220aa6a6000726979f/colorLogoPNG.png",Top Gear
 https://pluto.tv/ca/live-tv/638e10220aa6a6000726979f
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65e9ddb48145cb00084db62c/colorLogoPNG_1748523071394.png",Top Gear: Racing Icons
+https://pluto.tv/ca/live-tv/65e9ddb48145cb00084db62c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",Pluto TV Reality
 https://pluto.tv/ca/live-tv/67922858b83355184c699699
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6728c561daad7f000881ac83/colorLogoPNG_1730725745460.png",Wicked Tuna

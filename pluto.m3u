@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686fc910478decac7ca80444/colorLogoPNG_1753970380350.png",NCIS: Best of Tony & Ziva
+https://pluto.tv/ca/live-tv/686fc910478decac7ca80444
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",Summer of Movies
 https://pluto.tv/ca/live-tv/6654adb1f99922000854388c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
@@ -13,10 +15,10 @@ https://pluto.tv/ca/live-tv/64a3d96f060e830008af6745
 https://pluto.tv/ca/live-tv/63920159db0dea0007dd9932
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png",Romance 365
 https://pluto.tv/ca/live-tv/62fb6cd97b90e60007bc318a
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea41f42db3220007db97a6/colorLogoPNG_1750758085182.png",Pluto TV Christmas
-https://pluto.tv/ca/live-tv/62ea41f42db3220007db97a6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png",Christmas 365
 https://pluto.tv/ca/live-tv/62fb6d4308f5ec0007453c09
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c601e11410009b27011/colorLogoPNG_1732013077175.png",Pluto TV Kids Movie Club
+https://pluto.tv/ca/live-tv/66c45c601e11410009b27011
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",Pluto Classic Movie Westerns
 https://pluto.tv/ca/live-tv/66dad50215d2c60008d7afbd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png",Thrillers 365

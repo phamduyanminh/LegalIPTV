@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686fc910478decac7ca80444/colorLogoPNG_1753970380350.png",NCIS: Best of Tony & Ziva
-https://pluto.tv/ca/live-tv/686fc910478decac7ca80444
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",Summer of Movies
 https://pluto.tv/ca/live-tv/6654adb1f99922000854388c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
@@ -125,6 +123,8 @@ https://pluto.tv/ca/live-tv/62e9224f41d5e100076db2b6
 https://pluto.tv/ca/live-tv/63f4e0e63fde020007835cbe
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f4e11c7533d80008a1d5f0/colorLogoPNG.png",CSI: NY
 https://pluto.tv/ca/live-tv/63f4e11c7533d80008a1d5f0
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686fc910478decac7ca80444/colorLogoPNG_1753970380350.png",NCIS: Best of Tony & Ziva
+https://pluto.tv/ca/live-tv/686fc910478decac7ca80444
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f5de1c100100075665ef/colorLogoPNG.png",NCIS
 https://pluto.tv/ca/live-tv/62f4f5de1c100100075665ef
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png",NCIS: Los Angeles
@@ -277,8 +277,6 @@ https://pluto.tv/ca/live-tv/65e9ceb98145cb00084d64bc
 https://pluto.tv/ca/live-tv/666815a2eab8140008016adc
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f87df87533d80008ab9b4c/colorLogoPNG.png",Pluto TV Documentaries
 https://pluto.tv/ca/live-tv/63f87df87533d80008ab9b4c
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668662cb74f5ec0008123403/colorLogoPNG.png",NFB
-https://pluto.tv/ca/live-tv/668662cb74f5ec0008123403
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png",Beyond History
 https://pluto.tv/ca/live-tv/62fb9844db5a4a0007ebc2a3
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png",Declassified
@@ -369,10 +367,10 @@ https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
 https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65367e724f123d000877cfe5/colorLogoPNG.png",Come Dine with Me
 https://pluto.tv/ca/live-tv/65367e724f123d000877cfe5
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
-https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
 https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
+https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png",The Pet Collective
 https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240b7e283aa40008f79f84/colorLogoPNG.png",Naturescape

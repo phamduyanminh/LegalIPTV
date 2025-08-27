@@ -367,10 +367,10 @@ https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
 https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65367e724f123d000877cfe5/colorLogoPNG.png",Come Dine with Me
 https://pluto.tv/ca/live-tv/65367e724f123d000877cfe5
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
-https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
 https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
+https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png",The Pet Collective
 https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240b7e283aa40008f79f84/colorLogoPNG.png",Naturescape
@@ -425,6 +425,8 @@ https://pluto.tv/ca/live-tv/66ed3eb27358ce000830df49
 https://pluto.tv/ca/live-tv/62ea4dadce395f0007086df2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65bcc9c8d77d450008b34c6b/colorLogoPNG.png",Monster Jam
 https://pluto.tv/ca/live-tv/65bcc9c8d77d450008b34c6b
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a7b3bf07e03a00089148a9/colorLogoPNG.png",MTV: Best of
+https://pluto.tv/ca/live-tv/65a7b3bf07e03a00089148a9
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6509e0c7ff50008ca34ab/colorLogoPNG.png",MTV on Tour!
 https://pluto.tv/ca/live-tv/65a6509e0c7ff50008ca34ab
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",MTV Spankin’ New

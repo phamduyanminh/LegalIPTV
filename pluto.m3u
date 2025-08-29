@@ -15,6 +15,8 @@ https://pluto.tv/ca/live-tv/63920159db0dea0007dd9932
 https://pluto.tv/ca/live-tv/62fb6cd97b90e60007bc318a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png",Christmas 365
 https://pluto.tv/ca/live-tv/62fb6d4308f5ec0007453c09
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c601e11410009b27011/colorLogoPNG_1732013077175.png",Pluto TV Kids Movie Club
+https://pluto.tv/ca/live-tv/66c45c601e11410009b27011
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",Pluto Classic Movie Westerns
 https://pluto.tv/ca/live-tv/66dad50215d2c60008d7afbd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png",Thrillers 365
@@ -367,10 +369,10 @@ https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
 https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65367e724f123d000877cfe5/colorLogoPNG.png",Come Dine with Me
 https://pluto.tv/ca/live-tv/65367e724f123d000877cfe5
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
-https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
 https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
+https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png",The Pet Collective
 https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240b7e283aa40008f79f84/colorLogoPNG.png",Naturescape

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ca354f9608a7000830b2f4/colorLogoPNG_1756372054949.png",Community
+https://pluto.tv/ca/live-tv/64ca354f9608a7000830b2f4
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6874ac742704ca31d815b8ed/colorLogoPNG_1752490474311.png",Survivor
+https://pluto.tv/ca/live-tv/6874ac742704ca31d815b8ed
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png",Weeds / Nurse Jackie
 https://pluto.tv/ca/live-tv/688a44cf5d73ec0a3f49718b
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/681b196b896dcc617f8558fe/colorLogoPNG_1756288013605.png",RigTV
@@ -21,8 +25,6 @@ https://pluto.tv/ca/live-tv/62fb6cd97b90e60007bc318a
 https://pluto.tv/ca/live-tv/62fb6d4308f5ec0007453c09
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c601e11410009b27011/colorLogoPNG_1732013077175.png",Pluto TV Kids Movie Club
 https://pluto.tv/ca/live-tv/66c45c601e11410009b27011
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",Pluto Classic Movie Westerns
-https://pluto.tv/ca/live-tv/66dad50215d2c60008d7afbd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png",Thrillers 365
 https://pluto.tv/ca/live-tv/62fb6da41afad500077e9178
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png",Pluto TV Horror
@@ -113,6 +115,8 @@ https://pluto.tv/ca/live-tv/65660223635c3c00086c2578
 https://pluto.tv/ca/live-tv/62b97c5f0d8c8e0007cf48b9
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",Pluto TV Westerns
 https://pluto.tv/ca/live-tv/62bdacc96a3751000811842d
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",Pluto Classic Movie Westerns
+https://pluto.tv/ca/live-tv/66dad50215d2c60008d7afbd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/635659445b4c4700076d2ad1/colorLogoPNG.png",Walker Texas Ranger
 https://pluto.tv/ca/live-tv/635659445b4c4700076d2ad1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png",CSI

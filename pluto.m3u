@@ -25,6 +25,8 @@ https://pluto.tv/ca/live-tv/62bdb0bcd707b9000739d2e5
 https://pluto.tv/ca/live-tv/64a3d96f060e830008af6745
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63920159db0dea0007dd9932/colorLogoPNG.png",Shades of Black
 https://pluto.tv/ca/live-tv/63920159db0dea0007dd9932
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6368e15a51e9560007c592ed/colorLogoPNG.png",Out TV Proud
+https://pluto.tv/ca/live-tv/6368e15a51e9560007c592ed
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png",Romance 365
 https://pluto.tv/ca/live-tv/62fb6cd97b90e60007bc318a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png",Christmas 365
@@ -271,8 +273,6 @@ https://pluto.tv/ca/live-tv/62e90e8cb05d2b0007f10a61
 https://pluto.tv/ca/live-tv/6310cbee5a8ad300070fdb7c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/666815f24b9fb400083f7e31/colorLogoPNG.png",Best of Dr. Phil
 https://pluto.tv/ca/live-tv/666815f24b9fb400083f7e31
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6368e15a51e9560007c592ed/colorLogoPNG.png",Out TV Proud
-https://pluto.tv/ca/live-tv/6368e15a51e9560007c592ed
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png",The Judge Judy Channel
 https://pluto.tv/ca/live-tv/62e92e536f28870007fa9b3a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e93d0a80d8d10008a0181e/colorLogoPNG.png",Nosey
@@ -369,8 +369,6 @@ https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 https://pluto.tv/ca/live-tv/6874adbb3ffa5e0c917f721e
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",Nick Jr. Pluto TV
 https://pluto.tv/ca/live-tv/62bdb75c3afd1200079146a6
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png",Paw Patrol
-https://pluto.tv/ca/live-tv/62ea3ec626dc1900078e9f26
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png",Dora TV
 https://pluto.tv/ca/live-tv/62e951258a26d40007b3034c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6a4feb32e8000708f4d0/colorLogoPNG.png",Max & Ruby

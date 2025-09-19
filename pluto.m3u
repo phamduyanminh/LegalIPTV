@@ -199,8 +199,6 @@ https://pluto.tv/ca/live-tv/62fb9ade112ca70007d8441d
 https://pluto.tv/ca/live-tv/6729d651c7626f0008b5dacf
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png",Doc Martin
 https://pluto.tv/ca/live-tv/62e922f6675f71000736db3b
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63c7c122808b7400075c070f/colorLogoPNG.png",Desi Play TV
-https://pluto.tv/ca/live-tv/63c7c122808b7400075c070f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/666815a2eab8140008016adc/colorLogoPNG.png",TVB Pearl Drama
 https://pluto.tv/ca/live-tv/666815a2eab8140008016adc
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f89fcfd661bb00081ba45c/colorLogoPNG-1734529996071.png",MTV Reality
@@ -359,10 +357,10 @@ https://pluto.tv/ca/live-tv/62e92967cd663f0007e604fd
 https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea459c8d467f0007fbec86/colorLogoPNG.png",The Emeril Lagasse Channel
 https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
-https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png",Love Pets
 https://pluto.tv/ca/live-tv/65265dada6c3830008942a0a
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png",The Dog Whisperer with Caesar Millan
+https://pluto.tv/ca/live-tv/66289716039f940008cf20a2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png",The Pet Collective
 https://pluto.tv/ca/live-tv/62e92b5fca869f00078f0162
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6874adbb3ffa5e0c917f721e/colorLogoPNG_1752477271118.png",Pluto TV Kids Halloween

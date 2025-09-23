@@ -51,6 +51,8 @@ https://pluto.tv/ca/live-tv/62e91c3add66e00007eeb24c
 https://pluto.tv/ca/live-tv/65cf8bdaa25d5e00081e1e5d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png",Are We There Yet?
 https://pluto.tv/ca/live-tv/65cf8b9328730900087c5324
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png",Pluto TV British Comedy
+https://pluto.tv/ca/live-tv/638e11951177840007fdd6b2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/677f929054f43dad4b325c1c/colorLogoPNG.png",Just for Laughs GAGS
 https://pluto.tv/ca/live-tv/677f929054f43dad4b325c1c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png",FailArmy
@@ -77,8 +79,6 @@ https://pluto.tv/ca/live-tv/65df48ba28730900089f8480
 https://pluto.tv/ca/live-tv/62bdb919d36cbd0007e6ab8a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png",Three's Company
 https://pluto.tv/ca/live-tv/64ca723a2bc49300081a8966
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png",Pluto TV British Comedy
-https://pluto.tv/ca/live-tv/638e11951177840007fdd6b2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png",Pluto TV Classic TV Families
 https://pluto.tv/ca/live-tv/62e91af00c43540007f2bb43
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png",The Love Boat

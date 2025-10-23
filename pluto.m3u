@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png",Scare Tactics
 https://pluto.tv/ca/live-tv/6874ad2f3484d60732267ba8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png",APTN Beyond
+https://pluto.tv/ca/live-tv/68b9afd66985e192657a2b7f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6874aec6fd6704e9d3b9b45d/colorLogoPNG_1756818752434.png",MTV Halloween
 https://pluto.tv/ca/live-tv/6874aec6fd6704e9d3b9b45d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",Pluto TV Paranormal

@@ -5,6 +5,8 @@ https://pluto.tv/ca/live-tv/62ea41f42db3220007db97a6
 https://pluto.tv/ca/live-tv/62fb6d4308f5ec0007453c09
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6729d651c7626f0008b5dacf/colorLogoPNG_1762179805396.png",Super Channel Hearties
 https://pluto.tv/ca/live-tv/6729d651c7626f0008b5dacf
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66fabb00d8eb45000862415c/colorLogoPNG.png",The Great Christmas Light Fight
+https://pluto.tv/ca/live-tv/66fabb00d8eb45000862415c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6541004f67bd1a0008606f61/colorLogoPNG_1731485750042.png",MTV Xmas
 https://pluto.tv/ca/live-tv/6541004f67bd1a0008606f61
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6728c70fc7626f0008b27f52/colorLogoPNG_1731835968597.png",Stingray Holidayscapes
@@ -357,8 +359,6 @@ https://pluto.tv/ca/live-tv/62e92967cd663f0007e604fd
 https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea459c8d467f0007fbec86/colorLogoPNG.png",The Emeril Lagasse Channel
 https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6874adbb3ffa5e0c917f721e/colorLogoPNG_1752477271118.png",Pluto TV Kids Halloween
-https://pluto.tv/ca/live-tv/6874adbb3ffa5e0c917f721e
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",Nick Jr. Pluto TV
 https://pluto.tv/ca/live-tv/62bdb75c3afd1200079146a6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png",Paw Patrol

@@ -207,6 +207,8 @@ https://pluto.tv/ca/live-tv/62bdaf3470f09a000714a2f6
 https://pluto.tv/ca/live-tv/62fb9ade112ca70007d8441d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png",Doc Martin
 https://pluto.tv/ca/live-tv/62e922f6675f71000736db3b
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png",MTV Jersey Shore
+https://pluto.tv/ca/live-tv/68b9b0dbf9cf3d7cb9f56d88
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f89fcfd661bb00081ba45c/colorLogoPNG-1734529996071.png",MTV Reality
 https://pluto.tv/ca/live-tv/64f89fcfd661bb00081ba45c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f8a0c230ab3300084369b8/colorLogoPNG.png",MTV Dating

@@ -125,10 +125,6 @@ https://pluto.tv/ca/live-tv/66dad50215d2c60008d7afbd
 https://pluto.tv/ca/live-tv/635659445b4c4700076d2ad1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png",CSI
 https://pluto.tv/ca/live-tv/62e9224f41d5e100076db2b6
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f4e0e63fde020007835cbe/colorLogoPNG.png",CSI: Miami
-https://pluto.tv/ca/live-tv/63f4e0e63fde020007835cbe
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f4e11c7533d80008a1d5f0/colorLogoPNG.png",CSI: NY
-https://pluto.tv/ca/live-tv/63f4e11c7533d80008a1d5f0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f5de1c100100075665ef/colorLogoPNG.png",NCIS
 https://pluto.tv/ca/live-tv/62f4f5de1c100100075665ef
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png",NCIS: Los Angeles
@@ -373,8 +369,6 @@ https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
 https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",Nick Jr. Pluto TV
 https://pluto.tv/ca/live-tv/62bdb75c3afd1200079146a6
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png",Paw Patrol
-https://pluto.tv/ca/live-tv/62ea3ec626dc1900078e9f26
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png",Dora TV
 https://pluto.tv/ca/live-tv/62e951258a26d40007b3034c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb6a4feb32e8000708f4d0/colorLogoPNG.png",Max & Ruby

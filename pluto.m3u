@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png",Pluto TV FBI
+https://pluto.tv/ca/live-tv/693adae77f21340ef9746f56
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66fe4f71b2ffb100080baae3/colorLogoPNG.png",Pluto TV Hibernation Movies
 https://pluto.tv/ca/live-tv/66fe4f71b2ffb100080baae3
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
@@ -157,10 +159,10 @@ https://pluto.tv/ca/live-tv/66601d838ce3110008a9d7bf
 https://pluto.tv/ca/live-tv/693a85c44b296a40bb0cb3b8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",Pluto TV Sci-fi
 https://pluto.tv/ca/live-tv/66166cb1307fa30008f275e7
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png",Doctor Who Classic
-https://pluto.tv/ca/live-tv/62bdad934d73d50007a82472
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png",Andromeda
 https://pluto.tv/ca/live-tv/6850335b5965a2fd49f7e36d
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png",Doctor Who Classic
+https://pluto.tv/ca/live-tv/62bdad934d73d50007a82472
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png",The Outer Limits
 https://pluto.tv/ca/live-tv/6874ad743ffa5e0c917f6e20
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png",One Piece

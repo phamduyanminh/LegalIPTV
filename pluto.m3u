@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png",Stargate
+https://pluto.tv/ca/live-tv/693bf37b75432d022c85ef01
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png",Pluto TV FBI
 https://pluto.tv/ca/live-tv/693adae77f21340ef9746f56
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66fe4f71b2ffb100080baae3/colorLogoPNG.png",Pluto TV Hibernation Movies

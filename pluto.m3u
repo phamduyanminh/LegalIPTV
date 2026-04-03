@@ -301,7 +301,7 @@ https://pluto.tv/ca/live-tv/62cc1e1e0d0611000837dc1d
 https://pluto.tv/ca/live-tv/63da370e2e477400081cf8b6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/colorLogoPNG.png",CBS News 24/7
 https://pluto.tv/ca/live-tv/6350fdd266e9ea0007bedec5
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c274f25dd00092739ee/colorLogoPNG_1745400015230.png",CNN Headlines
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c274f25dd00092739ee/colorLogoPNG_1775159666872.png",CNN Headlines International
 https://pluto.tv/ca/live-tv/66c45c274f25dd00092739ee
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b976b93279cb000772c6f9/colorLogoPNG.png",Bloomberg TV+
 https://pluto.tv/ca/live-tv/62b976b93279cb000772c6f9
@@ -357,6 +357,8 @@ https://pluto.tv/ca/live-tv/62e92967cd663f0007e604fd
 https://pluto.tv/ca/live-tv/67b4b8b47d8025b1610a0a57
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ea459c8d467f0007fbec86/colorLogoPNG.png",The Emeril Lagasse Channel
 https://pluto.tv/ca/live-tv/62ea459c8d467f0007fbec86
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c45c601e11410009b27011/colorLogoPNG_1732013077175.png",Pluto TV Kids Movie Club
+https://pluto.tv/ca/live-tv/66c45c601e11410009b27011
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",Nick Jr. Pluto TV
 https://pluto.tv/ca/live-tv/62bdb75c3afd1200079146a6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png",Dora TV

@@ -139,26 +139,26 @@ https://pluto.tv/ca/live-tv/65fd548f29adfd00089c662c
 https://pluto.tv/ca/live-tv/62e92447ea1e2a000735ed33
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e925bc68d18a00077bb990/colorLogoPNG.png",48 Hours
 https://pluto.tv/ca/live-tv/62e925bc68d18a00077bb990
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",Total Crime
-https://pluto.tv/ca/live-tv/62e93b8eb8e02600071f8b1d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",Pluto TV True Crime
 https://pluto.tv/ca/live-tv/62e9289f8d467f0007fbc701
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png",Crime Up Close
-https://pluto.tv/ca/live-tv/6703a96763292d000836b4fa
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png",Crime & Justice
-https://pluto.tv/ca/live-tv/6601948129adfd0008a1c0ba
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e92392a3e6270007f562e8/colorLogoPNG.png",Forensic Files
 https://pluto.tv/ca/live-tv/62e92392a3e6270007f562e8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e924f2be69bc0007b7d53d/colorLogoPNG.png",Unsolved Mysteries
 https://pluto.tv/ca/live-tv/62e924f2be69bc0007b7d53d
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png",Busted at the Border
+https://pluto.tv/ca/live-tv/62fb9c4539183b00076a3875
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdaa32a1b2fd00076693e8/colorLogoPNG.png",FBI Files
 https://pluto.tv/ca/live-tv/62bdaa32a1b2fd00076693e8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63e36b374e83e70008987c58/colorLogoPNG.png",Aftershock
 https://pluto.tv/ca/live-tv/63e36b374e83e70008987c58
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",Total Crime
+https://pluto.tv/ca/live-tv/62e93b8eb8e02600071f8b1d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png",The New Detectives
 https://pluto.tv/ca/live-tv/62bdabbc5611f2000761ca30
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png",Busted at the Border
-https://pluto.tv/ca/live-tv/62fb9c4539183b00076a3875
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png",Crime & Justice
+https://pluto.tv/ca/live-tv/6601948129adfd0008a1c0ba
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png",Crime Up Close
+https://pluto.tv/ca/live-tv/6703a96763292d000836b4fa
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png",The X-Files
 https://pluto.tv/ca/live-tv/691b023a7613e09a8b209539
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",Pluto TV Sci-fi
